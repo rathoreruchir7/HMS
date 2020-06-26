@@ -1,0 +1,19 @@
+{
+  "name": "hms",
+  "version": "1.0.0",
+  "description": "A management software dedicated for the hospitals use, for the staff considered, to help in better communication and efficicent work system.",
+  "main": "program.cpp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rathoreruchir7/HMS.git"
+  },
+  "author": "Ruchir Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rathoreruchir7/HMS/issues"
+  },
+  "homepage": "https://github.com/rathoreruchir7/HMS#readme"
+}
